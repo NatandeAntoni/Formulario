@@ -1,3 +1,9 @@
 body{
-	background: blueviolet;
+	background: black;
 }
+ form label{
+	 display: block;
+	 font-size: 20px;
+}
+from input{
+	display: block;
