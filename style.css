@@ -1,9 +1,14 @@
 body{
-	background: black;
+	background: gray;
 }
  form label{
 	 display: block;
 	 font-size: 20px;
+	 color:black
 }
 from input{
 	display: block;
+	backgroud:black;
+	color:black;
+	front-weight:bold;
+}
