@@ -1,25 +1,38 @@
 body{
 	background: gray;
 }
- form label{
-	 display: block;
-	 font-size: 20px;
-	 color:black
-}
-from input{
+
+form label {
 	display: block;
-	backgroud:black;
-	color:black;
-	front-weight:bold;
+	font-size: 20px;
+	color: yellow;	
+	
 }
-<thead>
+form input{
+	display: block;
+	background: black;
+	color: white;
+	font-weight: bold;
+	
+}	
+table {
 
-<tr>
+background: #b0d7ce;
 
-<th>Dia</th>
+}
+tr {
 
-<th>Horário</th>
+background: #555555;
 
-</tr>
+color: white;
 
-</thead>
+font-weight: bold;
+
+}
+td {
+
+border: 1px solid #000000;
+
+border-color: #96f75b;
+
+}
